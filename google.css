@@ -4,8 +4,14 @@ nav {
 float:right;
 padding:25px;
 color:#222222;
-Font:serif;
-font-size:17px;
+}
+nav a{
+   text-decoration: none;
+}
+a{
+  color:#222222;
+  Font:serif;
+  font-size: 10px small;
 }
 
 
